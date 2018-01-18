@@ -1,0 +1,10 @@
+.color
+{
+   
+        background: rgb(182,113,195);   
+        background: -webkit-linear-gradient(to bottom, rgb(182,113,195), rgb(242,152,218)); 
+        background: linear-gradient(to bottom, rgb(182,113,195), rgb(242,152,218));
+       display:block;
+       width:50%;
+     
+}
