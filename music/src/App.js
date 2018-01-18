@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
-import radioPage from './pages/radioPage';
+import RadioPage from './pages/RadioPage';
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <radioPage/>
+        <RadioPage/>
       </div>
     )
   }
