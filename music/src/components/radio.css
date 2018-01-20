@@ -1,10 +1,60 @@
 .color
-{
-   
-        background: rgb(182,113,195);   
+{     
+        background-color: rgb(182,113,195);   
         background: -webkit-linear-gradient(to bottom, rgb(182,113,195), rgb(242,152,218)); 
         background: linear-gradient(to bottom, rgb(182,113,195), rgb(242,152,218));
-       display:block;
-       width:50%;
+        display:block;
+         width:300px;
      
 }
+.icon1 {
+       
+         font-size:28px;
+         font-weight: 200;
+         text-align: center;
+     }
+     .icon2 {
+        
+          font-size:22px;
+          font-weight: 200;
+          text-align: center;
+      }
+     .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .avatar{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+     
+    }
+    .avatar1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    .head6{
+     color:gray;
+     vertical-align: -webkit-baseline-middle;
+     font-size: .6rem;
+    }
+    .head4{
+        color:black;
+        vertical-align: -webkit-baseline-middle;
+        font-size: .6rem;
+       }
+       .head1{
+        font-family: "Times New Roman", Times, serif;
+        color:black;
+        vertical-align: -webkit-baseline-middle;
+        font-size: 1.5rem;
+       }
+       .head3{
+        font-family: "Times New Roman", Times, serif;
+        color:black;
+        vertical-align: -webkit-baseline-middle;
+        font-size: .8rem;
+       }
