@@ -1,0 +1,26 @@
+.DeviceSelector {
+  /* background: red; */
+  height: 20vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 20vw auto 20vw;
+  align-items: center;
+
+
+}
+.sideButton {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  display: grid;
+  margin: 1rem;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1px 1px 5px 0px;
+  background: #EDECF3;
+  justify-self: center;
+}
+.devices {
+  background: red;
+  height: 20vh;
+}
