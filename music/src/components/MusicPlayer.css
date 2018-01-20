@@ -1,0 +1,27 @@
+.music-player {
+  display: grid;
+  /* background: pink; */
+  height: 16vh;
+  width: 96%;
+  grid-template-columns: 10vw 10vw auto 10vw 10vw;
+  border-top: 4px solid rgb(206, 206, 206);
+}
+.player-container{
+  display: flex;
+  justify-content: center;
+  /* background: red; */
+  width: 100%;
+  margin-top: 2vh;
+}
+.music-player div {
+  justify-self: center;
+  align-self: center;
+  font-weight: 500;
+}
+.music-player div i {
+  font-size: 2rem;
+  color: gray;
+}
+.song-name {
+  color: gray;
+}
