@@ -1,0 +1,15 @@
+.header {
+  /* background: red; */
+  margin-top: 10vh;
+  text-align: center;
+  line-height: 0.3rem;
+}
+.header h1 {
+  font-size: 3.4rem;
+  font-weight: 300;
+}
+.header p {
+  font-size: 1rem;
+  color: gray;
+  font-weight: 500;
+}

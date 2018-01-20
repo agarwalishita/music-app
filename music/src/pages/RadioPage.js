@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import RadioUpper from "../components/RadioUpper";
+import Header from "../components/Header";
 export default class RadioPage extends Component {
-  render() {
-    return <RadioUpper/>
+  render () {
+    return <Header />
   }
 }
